@@ -1,0 +1,1 @@
+ok so now make damage work with stats!!
